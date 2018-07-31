@@ -3,7 +3,8 @@
 	<title>selamat datang di git</title>
 </head>
 <body>
-	<p>test git</p>
-
+	<h1>test git</h1>
+	<p>kali ini kita akan belajar git</p>
+	
 </body>
 <html>
